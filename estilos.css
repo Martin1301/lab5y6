@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+body{
+	background-image:url(img/fondo.jpg) ;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+
+	
+}
+
+#form{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+#form form input{
+    width:100%;
+    height:35px;
+}
+form button{
+    width:50%;
+    height:35px;
+}
+table,td{
+    border: solid #e9e9e9 1px;
+    border-radius: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+
+}
